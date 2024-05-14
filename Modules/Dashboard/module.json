@@ -1,0 +1,14 @@
+{
+    "id": "Dashboard",
+    "title": "Dashboard",
+    "name": "Dashboard",
+    "alias": "dashboard",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Dashboard\\App\\Providers\\DashboardServiceProvider"
+    ],
+    "files": [],
+    "version": 1
+}
